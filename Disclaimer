@@ -1,0 +1,74 @@
+LEGAL AND ETHICAL DISCLAIMER
+PLEASE READ THIS CAREFULLY BEFORE USING ANY PART OF THIS PROJECT
+
+EDUCATIONAL PURPOSE ONLY
+This software and related materials are provided strictly for educational and research purposes. They demonstrate networking concepts for academic study in controlled environments only.
+
+STRICT PROHIBITION ON ILLEGAL USE
+Any use of this tool to attack networks or systems:
+
+Without explicit written permission from the system owner
+
+That causes actual disruption or damage
+
+Against any public or private infrastructure
+IS EXPLICITLY FORBIDDEN AND ILLEGAL under laws including:
+
+Computer Fraud and Abuse Act (CFAA)
+
+EU Computer Misuse Directive
+
+Similar cybersecurity laws worldwide
+
+NO WARRANTY OR SUPPORT
+This code is provided "AS IS" without any warranties:
+
+May contain critical security flaws
+
+Will likely crash your own system if executed
+
+Has never been tested in production environments
+
+Comes with absolutely no technical support
+
+USER ASSUMES ALL RESPONSIBILITY
+By accessing this material, you agree that:
+
+You alone bear all legal responsibility for its use
+
+You will only test on your own isolated systems
+
+You understand the criminal penalties for misuse:
+
+Federal felony charges (up to 10 years imprisonment)
+
+Civil liability for damages (up to $250,000 per incident)
+
+Permanent criminal record
+
+ETHICAL RESTRICTIONS
+You are ethically prohibited from:
+
+Testing on cloud platforms (AWS, Azure, GCP)
+
+Targeting government/military systems (.gov/.mil)
+
+Disrupting critical infrastructure (utilities, healthcare)
+
+Harassing individuals or organizations
+
+ACADEMIC INTEGRITY
+If using for coursework:
+
+Obtain written permission from your instructor
+
+Conduct only in supervised lab environments
+
+PLATFORM COMPLIANCE
+Hosting this code:
+
+Violates GitHub's Acceptable Use Policy (Section 8)
+
+May result in repository deletion and account suspension
+
+Does not constitute endorsement by the hosting platform
